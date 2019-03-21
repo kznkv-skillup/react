@@ -1,13 +1,13 @@
 {
-  "main.css": "/kznkv-skillup/react/static/css/main.24ccda1d.chunk.css",
-  "main.js": "/kznkv-skillup/react/static/js/main.fcf3793d.chunk.js",
-  "main.js.map": "/kznkv-skillup/react/static/js/main.fcf3793d.chunk.js.map",
-  "static/js/1.ead9b09d.chunk.js": "/kznkv-skillup/react/static/js/1.ead9b09d.chunk.js",
-  "static/js/1.ead9b09d.chunk.js.map": "/kznkv-skillup/react/static/js/1.ead9b09d.chunk.js.map",
-  "runtime~main.js": "/kznkv-skillup/react/static/js/runtime~main.17ea5192.js",
-  "runtime~main.js.map": "/kznkv-skillup/react/static/js/runtime~main.17ea5192.js.map",
-  "static/css/main.24ccda1d.chunk.css.map": "/kznkv-skillup/react/static/css/main.24ccda1d.chunk.css.map",
-  "index.html": "/kznkv-skillup/react/index.html",
-  "precache-manifest.959f1a6ce984ee4447784f60f9b2202c.js": "/kznkv-skillup/react/precache-manifest.959f1a6ce984ee4447784f60f9b2202c.js",
-  "service-worker.js": "/kznkv-skillup/react/service-worker.js"
+  "main.css": "/react/static/css/main.960c018b.chunk.css",
+  "main.js": "/react/static/js/main.2c46bf22.chunk.js",
+  "main.js.map": "/react/static/js/main.2c46bf22.chunk.js.map",
+  "static/js/1.ead9b09d.chunk.js": "/react/static/js/1.ead9b09d.chunk.js",
+  "static/js/1.ead9b09d.chunk.js.map": "/react/static/js/1.ead9b09d.chunk.js.map",
+  "runtime~main.js": "/react/static/js/runtime~main.bf2515a3.js",
+  "runtime~main.js.map": "/react/static/js/runtime~main.bf2515a3.js.map",
+  "static/css/main.960c018b.chunk.css.map": "/react/static/css/main.960c018b.chunk.css.map",
+  "index.html": "/react/index.html",
+  "precache-manifest.be7701d84658bdad9cbae0ba664c88b2.js": "/react/precache-manifest.be7701d84658bdad9cbae0ba664c88b2.js",
+  "service-worker.js": "/react/service-worker.js"
 }
